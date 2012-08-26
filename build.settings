@@ -1,0 +1,19 @@
+settings =
+{
+        android =
+        {
+                versionCode = "4",
+		versionName = "1.4"
+        },
+    
+        androidPermissions =
+        {
+                "android.permission.INTERNET"
+                
+        },
+    
+        orientation =
+        {
+                default = "landscape"
+        },
+}
